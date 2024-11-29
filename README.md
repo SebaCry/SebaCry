@@ -1,6 +1,9 @@
-## Hi there 👋
 <h1>Hello! I'm Sebastián Pérez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Backend Developer in progress... </h2>
+
+### About Me
+- I am 17 years old and I am from Ibagué, Tolima, Colombia.
+- I am a student of SENA, and I am studying a  tecnhology of development technology
 
 ### Skills
 
